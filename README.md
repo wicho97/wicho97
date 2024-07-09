@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">I'm full stack developer from Lima, Perú.</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/wicho97/portfolio)
-
 - 🌱 I’m currently learning **Django and React**
 
 - 💬 Ask me about **PHP, WordPress, Python and Django**
