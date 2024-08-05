@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">I'm full stack developer from Lima, Perú.</h3>
 
-- 🌱 I’m currently learning **Django and React**
-
-- 💬 Ask me about **PHP, WordPress, Python and Django**
-
-- 📫 How to reach me **javiercasapia97@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/javier-casapia-13a3222b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-casapia-13a3222b0" height="30" width="40" /></a>
